@@ -1,0 +1,1825 @@
+{
+    "lens_id": "",
+    "document_id": "A49dxysSzyY_B2L-5xvg",
+    "original_document_id": "A49dxysSzyY_B2L-5xvg",
+    "version": "28",
+    "lastChanged": "1631150183881",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Glass"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "gradient_y_red"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Diode_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Glass_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Grid_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Laser_Scanner_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Leather_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Light_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Main_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Metal_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Mirror_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Materials",
+                        "Rubber_blender"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_1"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_10"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_2"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_3"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_4"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_5"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_6"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_7"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_8"
+                    ],
+                    [
+                        "helmet_sub",
+                        "Meshes",
+                        "Helmet_sub_blender_9"
+                    ],
+                    [
+                        "helmet_sub",
+                        "helmet_sub"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1631149550275498:94781"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1631149802522143:127085",
+                    "name": "Files\/File19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1631149802537107:127099",
+                    "name": "Files\/File21.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1631149802550996:127117",
+                    "name": "Files\/File23.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1631149802570946:127131",
+                    "name": "Files\/File25.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1631149802585490:127149",
+                    "name": "Files\/File27.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1631149802601133:127163",
+                    "name": "Files\/File29.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1631149802614685:127181",
+                    "name": "Files\/File31.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1631149802636790:127195",
+                    "name": "Files\/File33.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1631149802652326:127213",
+                    "name": "Files\/File35.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1631149802666606:127227",
+                    "name": "Files\/File37.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1631149802673314:127237",
+                    "name": "Files\/File39",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1631149802699209:127256",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1631149802728600:127275",
+                    "name": "Files\/File43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1631149802757345:127294",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1631149802780185:127311",
+                    "name": "Files\/File47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1631149802805553:127328",
+                    "name": "Files\/File49",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1631149802834760:127347",
+                    "name": "Files\/File51",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1631149802863126:127366",
+                    "name": "Files\/File53",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1631149802886847:127385",
+                    "name": "Files\/File55",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1631149802912542:127404",
+                    "name": "Files\/File57",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1631149802956217:127567",
+                    "name": "helmet_sub",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1631149953130448:148664",
+                    "name": "Files\/File62",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1631149953174010:148706",
+                    "name": "Files\/File64.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1631149953178974:148718",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1631149550274343:94780",
+                "4": "1631149550275498:94781",
+                "5": "1631149550494538:94813",
+                "6": "1631149803200614:127751",
+                "7": "1631149803201615:127793",
+                "8": "1631149803201855:127795",
+                "9": "1631149803203311:127812",
+                "10": "1631149803207353:127905",
+                "11": "1631149803209079:127922",
+                "12": "1631149803210631:127939",
+                "13": "1631149803212404:127956",
+                "14": "1631149803214362:127973",
+                "15": "1631149803216102:127990",
+                "16": "1631149803217398:128007",
+                "17": "1631149803219033:128024"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.mesh"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.mesh"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.mesh"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.mesh"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.mesh"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.mesh"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.mesh"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.mesh"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.mesh"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.mesh"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.mesh"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.mesh"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.lsmat"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.lsmat"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.lsmat"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.oprfb"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.obj"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.oprfb"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "973",
+                        "v": "helmet_sub.obj"
+                    },
+                    {
+                        "k": "974",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials"
+                    },
+                    {
+                        "k": "975",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Diode_blender.lsmat"
+                    },
+                    {
+                        "k": "976",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Glass_blender.lsmat"
+                    },
+                    {
+                        "k": "977",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Grid_blender.lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Laser_Scanner_blender.lsmat"
+                    },
+                    {
+                        "k": "979",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Leather_blender.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Light_blender.lsmat"
+                    },
+                    {
+                        "k": "981",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Main_blender.lsmat"
+                    },
+                    {
+                        "k": "982",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Metal_blender.lsmat"
+                    },
+                    {
+                        "k": "983",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Mirror_blender.lsmat"
+                    },
+                    {
+                        "k": "984",
+                        "v": "..\/AdditionalFiles\/helmet_sub\/Materials\/Rubber_blender.lsmat"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "987",
+                        "v": "Textures\/gradient_y_red.png"
+                    },
+                    {
+                        "k": "988",
+                        "v": "Glass.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "a0a613d76846f0393a21b6b5b2b58d1b"
+                    },
+                    {
+                        "k": "970",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "971",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "972",
+                        "v": "26831f15fc0788883eedb1787d53ebb4"
+                    },
+                    {
+                        "k": "973",
+                        "v": "a0a613d76846f0393a21b6b5b2b58d1b"
+                    },
+                    {
+                        "k": "975",
+                        "v": "75c579bc8e83cebaeaac3cf1a604c726"
+                    },
+                    {
+                        "k": "976",
+                        "v": "9f05aa34863d993c9fe14ea97db95f21"
+                    },
+                    {
+                        "k": "977",
+                        "v": "2edf51ea22b93ca8e334ae6fd539a8cd"
+                    },
+                    {
+                        "k": "978",
+                        "v": "0fba17710cf6cc83d2901296998fee77"
+                    },
+                    {
+                        "k": "979",
+                        "v": "82b00ae514602c3cd72fb5de3c43e2b7"
+                    },
+                    {
+                        "k": "980",
+                        "v": "09143351c8a556adb90804878eacee42"
+                    },
+                    {
+                        "k": "981",
+                        "v": "173f254a7a40eaac18817e7ffac08cfc"
+                    },
+                    {
+                        "k": "982",
+                        "v": "ae86d63aba45d3ff07d498ad1a7ec4ee"
+                    },
+                    {
+                        "k": "983",
+                        "v": "a45b32e2ab94009322da4bbc02446f8f"
+                    },
+                    {
+                        "k": "984",
+                        "v": "e9e4268cce0ee87222bcc4e85ee87167"
+                    },
+                    {
+                        "k": "986",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "987",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "988",
+                        "v": "4a17ae89b20c2c579649e6768a5127d5"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-09-08T18:15:41",
+                        "name": "Public",
+                        "hash": "272439ea528994163e68dc47524977f4",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-09-08T18:12:33",
+                                "name": "Textures",
+                                "hash": "862c8b76c355983e2c9c2dbaa2371d4f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-09-08T18:12:33",
+                                        "name": "gradient_y_red.png",
+                                        "hash": "46d2574129d7e76351d16c610d00b255",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-09-08T18:12:33",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-09-08T18:12:33",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-08T18:05:33",
+                                "name": "helmet_sub.obj",
+                                "hash": "a0a613d76846f0393a21b6b5b2b58d1b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-08T18:15:41",
+                                "name": "Glass.lsmat",
+                                "hash": "4a17ae89b20c2c579649e6768a5127d5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T17:46:02",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T17:46:02",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "helmet_sub",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "60",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "\/Users\/ejwessel\/Downloads\/helmet_sub.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Diode_blender",
+                                    "v": "1631149802673314:127237"
+                                },
+                                {
+                                    "k": "Glass_blender",
+                                    "v": "1631149802699209:127256"
+                                },
+                                {
+                                    "k": "Grid_blender",
+                                    "v": "1631149802728600:127275"
+                                },
+                                {
+                                    "k": "Laser_Scanner_blender",
+                                    "v": "1631149802757345:127294"
+                                },
+                                {
+                                    "k": "Leather_blender",
+                                    "v": "1631149802780185:127311"
+                                },
+                                {
+                                    "k": "Light_blender",
+                                    "v": "1631149802805553:127328"
+                                },
+                                {
+                                    "k": "Main_blender",
+                                    "v": "1631149802834760:127347"
+                                },
+                                {
+                                    "k": "Metal_blender",
+                                    "v": "1631149802863126:127366"
+                                },
+                                {
+                                    "k": "Mirror_blender",
+                                    "v": "1631149802886847:127385"
+                                },
+                                {
+                                    "k": "Rubber_blender",
+                                    "v": "1631149802912542:127404"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Helmet_sub_blender_1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802522143:127085",
+                                        "fileId": "19",
+                                        "originalId": "20",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802537107:127099",
+                                        "fileId": "21",
+                                        "originalId": "22",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802550996:127117",
+                                        "fileId": "23",
+                                        "originalId": "24",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_4",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802570946:127131",
+                                        "fileId": "25",
+                                        "originalId": "26",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_5",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802585490:127149",
+                                        "fileId": "27",
+                                        "originalId": "28",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_6",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802601133:127163",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_7",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802614685:127181",
+                                        "fileId": "31",
+                                        "originalId": "32",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_8",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802636790:127195",
+                                        "fileId": "33",
+                                        "originalId": "34",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_9",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802652326:127213",
+                                        "fileId": "35",
+                                        "originalId": "36",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Helmet_sub_blender_10",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1631149802666606:127227",
+                                        "fileId": "37",
+                                        "originalId": "38",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "974",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diode_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802673314:127237",
+                                        "fileId": "39",
+                                        "originalId": "40",
+                                        "publicId": "975",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Glass_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802699209:127256",
+                                        "fileId": "41",
+                                        "originalId": "42",
+                                        "publicId": "976",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Grid_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802728600:127275",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "977",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Laser_Scanner_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802757345:127294",
+                                        "fileId": "45",
+                                        "originalId": "46",
+                                        "publicId": "978",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Leather_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802780185:127311",
+                                        "fileId": "47",
+                                        "originalId": "48",
+                                        "publicId": "979",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Light_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802805553:127328",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "980",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Main_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802834760:127347",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "981",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Metal_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802863126:127366",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "982",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Mirror_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802886847:127385",
+                                        "fileId": "55",
+                                        "originalId": "56",
+                                        "publicId": "983",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Rubber_blender",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1631149802912542:127404",
+                                        "fileId": "57",
+                                        "originalId": "58",
+                                        "publicId": "984",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "helmet_sub",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "37",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1631149802956217:127567",
+                                "fileId": "59",
+                                "originalId": "61",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "985",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1631149953174010:148706",
+                                "fileId": "64",
+                                "originalId": "65",
+                                "publicId": "986",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                }
+                            },
+                            {
+                                "name": "gradient_y_red",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "40",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1631149953178974:148718",
+                                "fileId": "66",
+                                "originalId": "67",
+                                "publicId": "987",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TyGqdG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "46d2574129d7e76351d16c610d00b255"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glass",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1631149953130448:148664",
+                        "fileId": "62",
+                        "originalId": "63",
+                        "publicId": "988",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1631149803201615:127793"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1631149803200614:127751",
+                        "v": {
+                            "prefab": "1631149802956217:127567",
+                            "isActive": "false",
+                            "mapping": [
+                                {
+                                    "k": "1631149802937173:127419",
+                                    "v": "1631149803200614:127751"
+                                },
+                                {
+                                    "k": "1631149802939970:127421",
+                                    "v": "1631149803201615:127793"
+                                },
+                                {
+                                    "k": "1631149802940243:127423",
+                                    "v": "1631149803201855:127795"
+                                },
+                                {
+                                    "k": "1631149802940432:127425",
+                                    "v": "1631149803202033:127797"
+                                },
+                                {
+                                    "k": "1631149802941680:127437",
+                                    "v": "1631149803203311:127812"
+                                },
+                                {
+                                    "k": "1631149802942031:127439",
+                                    "v": "1631149803205755:127886"
+                                },
+                                {
+                                    "k": "1631149802942876:127455",
+                                    "v": "1631149803207353:127905"
+                                },
+                                {
+                                    "k": "1631149802943164:127457",
+                                    "v": "1631149803207825:127907"
+                                },
+                                {
+                                    "k": "1631149802943810:127469",
+                                    "v": "1631149803209079:127922"
+                                },
+                                {
+                                    "k": "1631149802944143:127471",
+                                    "v": "1631149803209409:127924"
+                                },
+                                {
+                                    "k": "1631149802944950:127483",
+                                    "v": "1631149803210631:127939"
+                                },
+                                {
+                                    "k": "1631149802945211:127485",
+                                    "v": "1631149803210992:127941"
+                                },
+                                {
+                                    "k": "1631149802945736:127497",
+                                    "v": "1631149803212404:127956"
+                                },
+                                {
+                                    "k": "1631149802945916:127499",
+                                    "v": "1631149803213264:127958"
+                                },
+                                {
+                                    "k": "1631149802946441:127511",
+                                    "v": "1631149803214362:127973"
+                                },
+                                {
+                                    "k": "1631149802946644:127513",
+                                    "v": "1631149803214611:127975"
+                                },
+                                {
+                                    "k": "1631149802947098:127525",
+                                    "v": "1631149803216102:127990"
+                                },
+                                {
+                                    "k": "1631149802947279:127527",
+                                    "v": "1631149803216461:127992"
+                                },
+                                {
+                                    "k": "1631149802947806:127539",
+                                    "v": "1631149803217398:128007"
+                                },
+                                {
+                                    "k": "1631149802948031:127541",
+                                    "v": "1631149803217689:128009"
+                                },
+                                {
+                                    "k": "1631149802949185:127553",
+                                    "v": "1631149803219033:128024"
+                                },
+                                {
+                                    "k": "1631149802949531:127555",
+                                    "v": "1631149803219678:128026"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1631149802956217:127567",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1631149802937173:127419"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender"
+                            ],
+                            "v": "1631149802939970:127421"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_1"
+                            ],
+                            "v": "1631149802940243:127423"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802940432:127425"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_10"
+                            ],
+                            "v": "1631149802949185:127553"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_10",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802949531:127555"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_2"
+                            ],
+                            "v": "1631149802941680:127437"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802942031:127439"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_3"
+                            ],
+                            "v": "1631149802942876:127455"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802943164:127457"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_4"
+                            ],
+                            "v": "1631149802943810:127469"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_4",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802944143:127471"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_5"
+                            ],
+                            "v": "1631149802944950:127483"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_5",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802945211:127485"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_6"
+                            ],
+                            "v": "1631149802945736:127497"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_6",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802945916:127499"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_7"
+                            ],
+                            "v": "1631149802946441:127511"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_7",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802946644:127513"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_8"
+                            ],
+                            "v": "1631149802947098:127525"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_8",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802947279:127527"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_9"
+                            ],
+                            "v": "1631149802947806:127539"
+                        },
+                        {
+                            "k": [
+                                "Helmet_sub_blender",
+                                "Helmet_sub_blender_9",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1631149802948031:127541"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
