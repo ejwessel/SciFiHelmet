@@ -3,7 +3,7 @@
     "document_id": "A49dxysSzyY_B2L-5xvg",
     "original_document_id": "A49dxysSzyY_B2L-5xvg",
     "version": "28",
-    "lastChanged": "1631257264828",
+    "lastChanged": "1631307502370",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -69,6 +69,9 @@
                     ],
                     [
                         "Grid_normals"
+                    ],
+                    [
+                        "Hologram"
                     ],
                     [
                         "Textures",
@@ -271,7 +274,7 @@
             "foldedOwnerSceneObjects": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1631255904998247:561176"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -610,6 +613,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1631306235307743:2984",
+                    "name": "Files\/File118.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1631306759711224:84532",
+                    "name": "Files\/File120",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -656,7 +675,8 @@
                 "20": "1631255907075057:561513",
                 "21": "1631256184741082:601665",
                 "22": "1631256732724130:685368",
-                "23": "1631257009628438:728271"
+                "23": "1631257009628438:728271",
+                "24": "1631306252039663:7299"
             }
         },
         "LayerComponent": {
@@ -1020,6 +1040,22 @@
                 {
                     "k": "115",
                     "v": "Files\/File115.lsmat"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.mesh"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.mesh"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.lsmat"
                 }
             ]
         },
@@ -1143,6 +1179,14 @@
                     {
                         "k": "12525",
                         "v": "Bloom Resources\/BloomLight.lsmat"
+                    },
+                    {
+                        "k": "12527",
+                        "v": "Plane.mesh"
+                    },
+                    {
+                        "k": "12528",
+                        "v": "Hologram.lsmat"
                     }
                 ],
                 "hashes": [
@@ -1304,11 +1348,19 @@
                     },
                     {
                         "k": "12525",
-                        "v": "69b54a10ffa108a898d26486c59dfbca"
+                        "v": "99481b114ed464615f67dbbe5acaaf6d"
+                    },
+                    {
+                        "k": "12526",
+                        "v": "ff0748218a6070c778ca6d3db04c88ce"
                     },
                     {
                         "k": "12527",
-                        "v": "578ca59873b11867efbe4881e80ff566"
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "12528",
+                        "v": "fc9be14b6731db973785a6ee2286b7de"
                     },
                     {
                         "k": "12531",
@@ -1338,68 +1390,68 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-09-09T23:38:24",
+                        "lastModified": "2021-09-10T13:56:31",
                         "name": "Public",
-                        "hash": "1a2064d4bd3a78e0a1c098d17617f963",
+                        "hash": "a12b5d3fc61ff963ce769c92dd97b9f8",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-09-09T23:25:12",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "Textures",
                                 "hash": "94e334c02c7f39044d5c75399838a4c5",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-08T18:12:33",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "gradient_y_red.png",
                                         "hash": "46d2574129d7e76351d16c610d00b255",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T23:25:09",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "Cristal5_NM.png",
                                         "hash": "e23323fc5f4e91e716440f0e6a6f10b3",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T23:25:09",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "Cristal5_DM.jpg",
                                         "hash": "37b839220c002db403a36ca2a5354f47",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T23:25:09",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "noise04.jpg",
                                         "hash": "5ecb4c351f47a9b2c317fa83636d2028",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T07:37:19",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "Base.png",
                                         "hash": "cb607d7b25a160872c49fb4d2635cc33",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T23:25:09",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "noise01.jpg",
                                         "hash": "8e6d1f5d53c0d0ce5ba7cf9511b94b01",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-08T18:12:33",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "white.png",
                                         "hash": "0c8dcfed2f50bb81ac5276a14967c005",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-08T18:12:33",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1408,40 +1460,54 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-09-08T18:05:33",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "helmet_sub.obj",
                                 "hash": "a0a613d76846f0393a21b6b5b2b58d1b",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-09-09T07:36:29",
+                                "lastModified": "2021-09-10T13:56:31",
+                                "name": "Hologram.lsmat",
+                                "hash": "d2f3241cec732966b85f4e42f7ccf499",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "Grid_alpha.png",
                                 "hash": "ea8256c8d970e68337d126cb5427390a",
                                 "children": ""
                             },
                             {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-10T13:15:38",
+                                "name": "Plane.mesh",
+                                "hash": "f3f8f179b87ba4b5a44077fb80d53214",
+                                "children": ""
+                            },
+                            {
                                 "isFolder": "true",
-                                "lastModified": "2021-09-09T23:59:08",
+                                "lastModified": "2021-09-10T13:56:31",
                                 "name": "Bloom Resources",
-                                "hash": "54e74ab6f7e2162edaed59a58a57bf22",
+                                "hash": "8355b4faa59d87a170cd17dfc129e3f6",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-09-09T23:38:24",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "Textures",
                                         "hash": "ed69ed08610aa420068b1c5df7d5c1ec",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-09-09T23:38:24",
+                                                "lastModified": "2021-09-10T13:36:55",
                                                 "name": "iridescence_combined.png",
                                                 "hash": "464f444dfcba88908c256dddc14e2779",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-09-09T23:38:24",
+                                                "lastModified": "2021-09-10T13:36:55",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1450,14 +1516,14 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T23:59:08",
+                                        "lastModified": "2021-09-10T13:56:31",
                                         "name": "BloomLight.lsmat",
-                                        "hash": "71650a713fd6bdee4862598d25118a63",
+                                        "hash": "ae166737e79255d37758d9bbc075d7bd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-09T23:38:24",
+                                        "lastModified": "2021-09-10T13:36:55",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1466,28 +1532,28 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-09-09T08:13:53",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "Glass.lsmat",
                                 "hash": "22f93b0f65dece5e53f6d81cf68402b8",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-08-10T17:46:02",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-09-09T07:36:31",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "Grid_normals.png",
                                 "hash": "4f673346bf8eda95a6ef10d5d702862b",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-08-10T17:46:02",
+                                "lastModified": "2021-09-10T13:36:55",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -2261,21 +2327,42 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "64",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1631306235307743:2984",
+                        "fileId": "118",
+                        "originalId": "119",
+                        "publicId": "12527",
+                        "source": "\/Users\/ejwessel\/Dev\/SciFiHelmet\/Public\/Plane.mesh",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Hologram",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "65",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1631306759711224:84532",
+                        "fileId": "120",
+                        "originalId": "121",
+                        "publicId": "12528",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1631149802673314:127237",
-                        "path_list": [
-                            "helmet_sub",
-                            "Materials",
-                            "Diode_blender"
-                        ]
-                    }
+                "objects": [
+                    "1631306252039663:7299"
                 ]
             }
         },
@@ -2746,6 +2833,10 @@
                 {
                     "k": "1631255906994462:561424",
                     "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1631306759711224:84532",
+                    "v": "6IHq2C3GobYvXg5Y5wErt6"
                 }
             ]
         }
