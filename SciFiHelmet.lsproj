@@ -3,7 +3,7 @@
     "document_id": "A49dxysSzyY_B2L-5xvg",
     "original_document_id": "A49dxysSzyY_B2L-5xvg",
     "version": "28",
-    "lastChanged": "1631307502370",
+    "lastChanged": "1631338779374",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -226,8 +226,12 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "hints": "",
-            "lens": "Untitled",
+            "icon_hash": "017d96292b5a2da30db4a59d87886292",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Space Helmet",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -274,7 +278,7 @@
             "foldedOwnerSceneObjects": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1631255904998247:561176"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -676,7 +680,8 @@
                 "21": "1631256184741082:601665",
                 "22": "1631256732724130:685368",
                 "23": "1631257009628438:728271",
-                "24": "1631306252039663:7299"
+                "24": "1631306252039663:7299",
+                "25": "1631336898828299:106981"
             }
         },
         "LayerComponent": {
@@ -1348,7 +1353,7 @@
                     },
                     {
                         "k": "12525",
-                        "v": "99481b114ed464615f67dbbe5acaaf6d"
+                        "v": "fcb2912077e9bc841f3a4a9185903071"
                     },
                     {
                         "k": "12526",
@@ -1360,19 +1365,39 @@
                     },
                     {
                         "k": "12528",
-                        "v": "fc9be14b6731db973785a6ee2286b7de"
+                        "v": "786070587b50d06ea5f37e94f3946553"
+                    },
+                    {
+                        "k": "12529",
+                        "v": "c4c985708dbf7b64111359a8abb2292d"
+                    },
+                    {
+                        "k": "12530",
+                        "v": "fa1a2b3dccd133349ebedc12bafa9a8e"
                     },
                     {
                         "k": "12531",
-                        "v": "0ba4c880320df9f8ecea4edb13990b64"
+                        "v": "d55abc3c7d1a4719dea9fa15ccec203f"
+                    },
+                    {
+                        "k": "12532",
+                        "v": "21e34be24e1dcf90700db552fd3d17bf"
+                    },
+                    {
+                        "k": "12533",
+                        "v": "78132c6450403faefc3f440b2bb3b24a"
                     },
                     {
                         "k": "12534",
-                        "v": "a6e321bed066b22e0e725b65c13f0a6a"
+                        "v": "27b9efe7ae34478c82311efb90011607"
+                    },
+                    {
+                        "k": "12535",
+                        "v": "f96a44b40f99ae4b63f275f1142f7c98"
                     },
                     {
                         "k": "12536",
-                        "v": "85d339d916479f729938d2911b85bf1f"
+                        "v": "324944d6dae53ea48a648b1d44ec78c3"
                     },
                     {
                         "k": "12537",
@@ -1390,9 +1415,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-09-10T13:56:31",
+                        "lastModified": "2021-09-10T22:38:33",
                         "name": "Public",
-                        "hash": "a12b5d3fc61ff963ce769c92dd97b9f8",
+                        "hash": "995592d1228f21b163ce26d14f568f11",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1467,9 +1492,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-09-10T13:56:31",
+                                "lastModified": "2021-09-10T22:38:33",
                                 "name": "Hologram.lsmat",
-                                "hash": "d2f3241cec732966b85f4e42f7ccf499",
+                                "hash": "ec9920aee83e5b94587ad56c8c536d4a",
                                 "children": ""
                             },
                             {
@@ -1488,9 +1513,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-09-10T13:56:31",
+                                "lastModified": "2021-09-10T22:38:33",
                                 "name": "Bloom Resources",
-                                "hash": "8355b4faa59d87a170cd17dfc129e3f6",
+                                "hash": "2830ff32dc44bfdfd0bd98f6cee4c994",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -1516,9 +1541,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-09-10T13:56:31",
+                                        "lastModified": "2021-09-10T22:38:33",
                                         "name": "BloomLight.lsmat",
-                                        "hash": "ae166737e79255d37758d9bbc075d7bd",
+                                        "hash": "aa6216200ae8add3a41a3d3493720759",
                                         "children": ""
                                     },
                                     {
@@ -2360,11 +2385,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1631306252039663:7299"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
